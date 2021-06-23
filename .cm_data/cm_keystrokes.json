@@ -17716,6 +17716,20 @@
             "keyStrokeTimeStamp": "Wed Jun 23 2021 23:10:36",
             "keyStrokeInfo": "o",
             "position": "104,101"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 23 2021 23:11:15",
+            "keyStrokeInfo": "\"\"",
+            "position": "104,108"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 23 2021 23:11:17",
+            "keyStrokeInfo": "",
+            "position": "104,109"
         }
     ]
 }
