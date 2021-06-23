@@ -17730,6 +17730,48 @@
             "keyStrokeTimeStamp": "Wed Jun 23 2021 23:11:17",
             "keyStrokeInfo": "",
             "position": "104,109"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Wed Jun 23 2021 23:13:15",
+            "keyStrokeInfo": "\"@Url.Content(\"~/Images/Cover/6.jpg\")\"",
+            "position": "104,79"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Wed Jun 23 2021 23:13:27",
+            "keyStrokeInfo": "img/about.jpg",
+            "position": "104,96"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 23 2021 23:13:30",
+            "keyStrokeInfo": "c",
+            "position": "104,100"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 23 2021 23:13:30",
+            "keyStrokeInfo": "c",
+            "position": "104,101"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 23 2021 23:13:30",
+            "keyStrokeInfo": "i",
+            "position": "104,102"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 23 2021 23:13:30",
+            "keyStrokeInfo": "o",
+            "position": "104,103"
         }
     ]
 }
