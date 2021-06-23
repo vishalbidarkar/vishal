@@ -35328,6 +35328,55 @@
             "keyStrokeTimeStamp": "Thu Jun 24 2021 01:27:32",
             "keyStrokeInfo": "ome",
             "position": "52,53"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Jun 24 2021 01:29:47",
+            "keyStrokeInfo": "",
+            "position": "102,91"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Jun 24 2021 01:29:47",
+            "keyStrokeInfo": "",
+            "position": "102,90"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Jun 24 2021 01:29:48",
+            "keyStrokeInfo": "",
+            "position": "102,89"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Jun 24 2021 01:29:49",
+            "keyStrokeInfo": "J",
+            "position": "102,89"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Jun 24 2021 01:29:49",
+            "keyStrokeInfo": "P",
+            "position": "102,90"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Jun 24 2021 01:29:50",
+            "keyStrokeInfo": "G",
+            "position": "102,91"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Jun 24 2021 01:29:52",
+            "keyStrokeInfo": "ccio.JPG",
+            "position": "102,84"
         }
     ]
 }
