@@ -1,0 +1,60 @@
+{
+    "style.default.css": [
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 23 2021 14:45:38",
+            "keyStrokeInfo": ".",
+            "position": "1433,15"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 23 2021 14:45:38",
+            "keyStrokeInfo": "5",
+            "position": "1433,16"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 23 2021 14:45:44",
+            "keyStrokeInfo": "",
+            "position": "1433,16"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 23 2021 14:45:45",
+            "keyStrokeInfo": "6",
+            "position": "1433,16"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 23 2021 14:45:50",
+            "keyStrokeInfo": "",
+            "position": "1433,16"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 23 2021 14:45:50",
+            "keyStrokeInfo": "8",
+            "position": "1433,16"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 23 2021 14:45:59",
+            "keyStrokeInfo": "",
+            "position": "1433,16"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 23 2021 14:45:59",
+            "keyStrokeInfo": "9",
+            "position": "1433,16"
+        }
+    ]
+}
